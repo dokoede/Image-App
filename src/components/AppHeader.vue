@@ -1,6 +1,6 @@
 <template>
-    <div>
-<h3> image storage</h3>
+    <div class = 'ui secondary pointing menu'>
+        <a class='item'> Image Storage</a>
     </div>
 
 </template>
